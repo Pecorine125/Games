@@ -1,0 +1,12 @@
+[
+  {
+    "LinkGames": "https://example.com/jogo1",
+    "ImagensGames": "https://via.placeholder.com/200x120.png?text=Jogo+1",
+    "NomeGames": "Jogo 1"
+  },
+  {
+    "LinkGames": "https://example.com/jogo2",
+    "ImagensGames": "https://via.placeholder.com/200x120.png?text=Jogo+2",
+    "NomeGames": "Jogo 2"
+  }
+]

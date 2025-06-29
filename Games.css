@@ -1,0 +1,15 @@
+body {
+  background-color: #000;
+  color: white;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+iframe {
+  width: 80%;
+  height: 80%;
+  border: none;
+}

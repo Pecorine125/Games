@@ -1,0 +1,29 @@
+body {
+  background-color: #101010;
+  color: white;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#menu-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.game-item {
+  text-align: center;
+  cursor: pointer;
+}
+
+.game-item img {
+  width: 200px;
+  height: 120px;
+  border-radius: 10px;
+  transition: transform 0.2s;
+}
+
+.game-item img:hover {
+  transform: scale(1.05);
+}

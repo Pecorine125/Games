@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #111;
+  color: white;
+  font-family: sans-serif;
+}
+
+.progress-container {
+  width: 80%;
+  background-color: #333;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  width: 0%;
+  height: 30px;
+  background: linear-gradient(90deg, #00f260, #0575e6);
+  text-align: center;
+  line-height: 30px;
+  transition: width 0.3s ease-in-out;
+}
